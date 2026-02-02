@@ -1,0 +1,26 @@
+🎮 Welcome to Hangman Game
+
+Word: _ _ _ _ _ _
+Guess a letter: Helloo
+❌ Wrong guess! Attempts left: 5
+
+Word: _ _ _ _ _ _
+Guess a letter: Mayank
+❌ Wrong guess! Attempts left: 4
+
+Word: _ _ _ _ _ _
+Guess a letter: Giftty
+❌ Wrong guess! Attempts left: 3
+
+Word: _ _ _ _ _ _
+Guess a letter: Newww
+❌ Wrong guess! Attempts left: 2
+
+Word: _ _ _ _ _ _
+Guess a letter: Fk
+❌ Wrong guess! Attempts left: 1
+
+Word: _ _ _ _ _ _
+Guess a letter: Ok
+❌ Wrong guess! Attempts left: 0
+💀 Game Over! The word was: coding
